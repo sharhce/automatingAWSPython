@@ -1,1 +1,1 @@
-# automatingAWSPython
+# Automation with Python learning
